@@ -1,0 +1,5 @@
+{
+    "require": {
+        "jason-napolitano/codeigniter4-cart-module": "^1.1"
+    }
+}
